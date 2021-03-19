@@ -33,13 +33,13 @@ I've been using ~~Manjaro~~ Arch for a little while, so I'm most experienced and
 - I'm a very big fan of the SciADV visual novel series (その目、だれの目？). I also enjoy watching anime and reading manga.
 ## Check out some of my projects:
 - [youtube-archive](https://github.com/JakeGuy11/youtube-archive), a passive cli C++/python tool for archiving YouTube Livestreams
-- [AMP Music Player](https://github.com/JakeGuy11/amp-music-player), a graphical Java music player
+- [image-archive](https://github.com/JakeGuy11/image-archive), a firefox addon that will download, tag and sort images from supported sites (not complete)
 - [Silver Assistant (Windows Only)](https://github.com/JakeGuy11/silver-assistant-windows-only), a graphical C# tool for tracking the market price of silver (soon to be remade for UNIX systems).png
 ## Contact Me
-[<img align="left" alt="Email" width="30px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/protonmail-desktop-icon.png" />](mailto:Jake_Guy_11@protonmail.ch)
-[<img align="left" alt="Github" width="30px" src="http://www.conorprunty.me/images/githubImage.png" />](https://github.com/JakeGuy11)
-[<img align="left" alt="Reddit" width="30px" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2" />](https://www.reddit.com/user/Jake_Guy_11)
-[<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />](https://www.instagram.com/jake_guy_11/)
+[<img align="left" alt="Email" width="30px" src="protonmail.png" />](mailto:Jake_Guy_11@protonmail.ch)
+[<img align="left" alt="Github" width="30px" src="github.png" />](https://github.com/JakeGuy11)
+[<img align="left" alt="Reddit" width="30px" src="reddit.png" />](https://www.reddit.com/user/Jake_Guy_11)
+[<img align="left" alt="Instagram" width="30px" src="instagram.png" />](https://www.instagram.com/jake_guy_11/)
 <br />
 \
 If you have any questions or feedback about anything, contact me at any of the above (or email me at Jake_Guy_11@protonmail.ch).\
