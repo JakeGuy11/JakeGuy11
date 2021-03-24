@@ -33,7 +33,7 @@ I've been using ~~Manjaro~~ Arch for a little while, so I'm most experienced and
 - I'm a very big fan of the SciADV visual novel series (その目、だれの目？). I also enjoy watching anime and reading manga.
 ## Check out some of my projects:
 - [youtube-archive](https://github.com/JakeGuy11/youtube-archive), a passive cli C++/python tool for archiving YouTube Livestreams
-- [image-archive](https://github.com/JakeGuy11/image-archive), a firefox addon that will download, tag and sort images from supported sites (not complete)
+- [Image Sourcerer](https://github.com/JakeGuy11/image-sourcerer), a firefox addon that will download, tag and sort images from supported sites (not complete)
 - [Silver Assistant (Windows Only)](https://github.com/JakeGuy11/silver-assistant-windows-only), a graphical C# tool for tracking the market price of silver (soon to be remade for UNIX systems).png
 ## Contact Me
 [<img align="left" alt="Email" width="30px" src="protonmail.png" />](mailto:Jake_Guy_11@protonmail.ch)
