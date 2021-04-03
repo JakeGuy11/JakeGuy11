@@ -3,30 +3,30 @@ Welcome to my GitHub page! I have 6 and a half years of coding experience with b
 
 ## Skills
 
-[<img align="left" alt="C++" width="24px" src="cpp.png" />](https://www.cplusplus.com/)
-[<img align="left" alt="Java" width="24px" src="java.png" />](https://www.java.com/)
-[<img align="left" alt="Python" width="24px" src="python.png" />](https://www.python.org/)
-[<img align="left" alt="C#" width="24px" src="cs.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img align="left" alt="Bash" width="24px" src="bash.png" />](https://www.gnu.org/software/bash/)
-[<img align="left" alt="Linux" width="24px" src="linux.png" />](https://www.linux.org/)
-[<img align="left" alt="Arch Linux" width="24px" src="arch.png" />](https://archlinux.org/)
-[<img align="left" alt="Raspberry Pi" width="24px" src="rpi.png" />](https://www.raspberrypi.org/)
-[<img align="left" alt="Arduino" width="24px" src="arduino.png" />](https://www.arduino.cc/)
-[<img align="left" alt="FRC" width="24px" src="frc.png" />](https://www.firstinspires.org/robotics/frc)
-[<img align="left" alt="NodeJS" width="24px" src="node.png" />](https://nodejs.org/en/)
-[<img align="left" alt="Blender" width="24px" src="blender.png" />](https://www.blender.org/)
-[<img align="left" alt="Git" width="24px" src="git.png" />](https://git-scm.com/)
-[<img align="left" alt="Android Studio" width="24px" src="as.png" />](https://developer.android.com/studio)
-[<img align="left" alt="Visual Studio" width="24px" src="vs.png" />](https://visualstudio.microsoft.com/)
-[<img align="left" alt="Inventor" width="24px" src="inventor.png" />](https://www.autodesk.ca/en/products/inventor/overview?term=1-YEAR&support=null)
-[<img align="left" alt="GIMP" width="24px" src="gimp.png" />](https://www.gimp.org/)
-[<img align="left" alt="Markdown" width="24px" src="md.png" />](https://daringfireball.net/projects/markdown/)
-[<img align="left" alt="HTML" width="24px" src="html.png" />](https://html.spec.whatwg.org/)
+[<img align="left" alt="C++" height="24px" src="cpp.png" />](https://www.cplusplus.com/)
+[<img align="left" alt="Python" height="24px" src="python.png" />](https://www.python.org/)
+[<img align="left" alt="Java" height="24px" src="java.png" />](https://www.java.com/)
+[<img align="left" alt="Bash" height="24px" src="bash.png" />](https://www.gnu.org/software/bash/)
+[<img align="left" alt="Git" height="24px" src="git.png" />](https://git-scm.com/)
+[<img align="left" alt="Linux" height="24px" src="linux.png" />](https://www.linux.org/)
+[<img align="left" alt="Arch Linux" height="24px" src="arch.png" />](https://archlinux.org/)
+[<img align="left" alt="JS" height="24px" src="js.png" />](https://www.javascript.com)
+[<img align="left" alt="HTML" height="24px" src="html.png" />](https://html.spec.whatwg.org/)
+[<img align="left" alt="CSS" height="24px" src="css.png" />](https://www.w3schools.com/Css/)
+[<img align="left" alt="C#" height="24px" src="cs.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img align="left" alt="Raspberry Pi" height="24px" src="rpi.png" />](https://www.raspberrypi.org/)
+[<img align="left" alt="Arduino" height="24px" src="arduino.png" />](https://www.arduino.cc/)
+[<img align="left" alt="NodeJS" height="24px" src="node.png" />](https://nodejs.org/en/)
+[<img align="left" alt="Blender" height="24px" src="blender.png" />](https://www.blender.org/)
+[<img align="left" alt="Android Studio" height="24px" src="as.png" />](https://developer.android.com/studio)
+[<img align="left" alt="Visual Studio" height="24px" src="vs.png" />](https://visualstudio.microsoft.com/)
+[<img align="left" alt="GIMP" height="24px" src="gimp.png" />](https://www.gimp.org/)
+[<img align="left" alt="Inventor" height="24px" src="inventor.png" />](https://www.autodesk.ca/en/products/inventor/overview?term=1-YEAR&support=null)
 <br />
 
 
 I've been using Java, Arduino (modified C++), and C#/.NET for the longest, and I'm most comfortable with C++, Java, Python, and Bash. I'm currently lead software on [FRC team 7722](https://www.thebluealliance.com/team/7722/2019) and was when we won the district event at Western University in our rookie year as well.\
-I've been using ~~Manjaro~~ Arch for a little while, so I'm most experienced and comfortable writing command line applications for UNIX/Mac systems in Java, C++ and Python, although I'm also fairly experienced with the Java Swing graphics library.
+I've been using Arch as a daily driver for quite some time, so I'm most experienced and comfortable writing command line applications for UNIX/Mac systems in Java, C++ and Python, although I'm also fairly experienced with the Java Swing graphics library.
 ## Hobbies/Interests
 - I have a passion for math and physics, more specifically astrophysics. I hope to study mathematical physics at the University of Waterloo.
 - I'm a woodworker and metalsmith/bladesmith. I'm still fairly inexperienced but I've produced several final pieces that I'm proud of.
@@ -38,7 +38,6 @@ I've been using ~~Manjaro~~ Arch for a little while, so I'm most experienced and
 ## Contact Me
 [<img align="left" alt="Email" width="30px" src="protonmail.png" />](mailto:Jake_Guy_11@protonmail.ch)
 [<img align="left" alt="Github" width="30px" src="github.png" />](https://github.com/JakeGuy11)
-[<img align="left" alt="Reddit" width="30px" src="reddit.png" />](https://www.reddit.com/user/Jake_Guy_11)
 [<img align="left" alt="Instagram" width="30px" src="instagram.png" />](https://www.instagram.com/jake_guy_11/)
 <br />
 \
