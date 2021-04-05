@@ -21,7 +21,6 @@ Welcome to my GitHub page! I have 6 and a half years of coding experience with b
 [<img align="left" alt="Android Studio" height="28px" src="as.png" />](https://developer.android.com/studio)
 [<img align="left" alt="Visual Studio" height="28px" src="vs.png" />](https://visualstudio.microsoft.com/)
 [<img align="left" alt="GIMP" height="28px" src="gimp.png" />](https://www.gimp.org/)
-[<img align="left" alt="Inventor" height="28px" src="inventor.png" />](https://www.autodesk.ca/en/products/inventor/overview?term=1-YEAR&support=null)
 <br />
 
 
