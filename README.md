@@ -44,4 +44,5 @@ If you have any questions or feedback about anything, contact me at any of the a
 I'm also always open to coding commissions. If you have any questions about my capabilities or pricing, please email me!
 ## GitHub Statistics
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeGuy11&layout=compact&langs_count=6&theme=radical)
+
 ![](https://github-readme-stats.vercel.app/api?username=JakeGuy11&theme=radical)
