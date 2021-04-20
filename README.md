@@ -43,5 +43,5 @@ I've been using Arch with i3wm (check out my dotfiles [here](https://github.com/
 If you have any questions or feedback about anything, contact me at any of the above (or email me at Jake_Guy_11@protonmail.ch).\
 I'm also always open to coding commissions. If you have any questions about my capabilities or pricing, please email me!
 ## GitHub Statistics
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeGuy11&layout=compact&theme=radical)\
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeGuy11&layout=compact&langs_count=6&theme=radical)
 ![](https://github-readme-stats.vercel.app/api?username=JakeGuy11&theme=radical)
