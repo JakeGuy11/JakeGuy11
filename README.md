@@ -33,7 +33,7 @@ I use Arch with DWM as a daily driver (check out my `dwm-status` program [here](
 ## Check out some of my projects:
 - [Image Sourcerer](https://github.com/JakeGuy11/image-sourcerer), a firefox addon that will download, tag and sort images from supported sites
 - [album-archive](https://github.com/JakeGuy11/album-archive), a cli C++ tool for downloading and/or tagging large amounts of music
-- [youtube-archive](https://github.com/JakeGuy11/youtube-archive), a passive cli C++/python tool for archiving YouTube Livestreams
+- [youtube-archive](https://github.com/JakeGuy11/youtube-archive-cpp), a passive cli C++/python tool for archiving YouTube Livestreams
 ## Contact Me
 [<img align="left" alt="Email" width="30px" src="protonmail.png" />](mailto:Jake_Guy_11@protonmail.ch)
 [<img align="left" alt="Github" width="30px" src="github.png" />](https://github.com/JakeGuy11)
@@ -43,6 +43,6 @@ I use Arch with DWM as a daily driver (check out my `dwm-status` program [here](
 If you have any questions or feedback about anything, contact me at any of the above (or email me at Jake_Guy_11@protonmail.ch).\
 I'm also always open to coding commissions. If you have any questions about my capabilities or pricing, please email me!
 ## GitHub Statistics
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeGuy11&layout=compact&langs_count=6&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeGuy11&layout=compact&langs_count=5&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api?username=JakeGuy11&theme=radical)
