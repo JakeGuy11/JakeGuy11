@@ -25,7 +25,7 @@ Welcome to my GitHub page! I have 6 and a half years of coding experience with b
 
 
 I've been using Java, Arduino (modified C++), and C#/.NET for the longest, and I'm most comfortable with C++, Java, Python, and Bash. I'm currently lead software on [FRC team 7722](https://www.thebluealliance.com/team/7722/2019) and was when we won the district event at Western University in our rookie year as well.\
-I've been using Arch with DWM as a daily driver for quite some time, so I'm most experienced and comfortable writing command line applications for UNIX/Mac systems in Java, C++ and Python, although I'm also fairly experienced with the Java Swing graphics library.
+I use Arch with DWM as a daily driver (check out my `dwm-status` program [here](https://github.com/JakeGuy11/dwm-status)), so I'm most experienced and comfortable writing command line applications for UNIX/Mac systems in Java, C++ and Python, although I'm also fairly experienced with the Java Swing graphics library.
 ## Hobbies/Interests
 - I have a passion for math and physics, more specifically astrophysics. I hope to study mathematical physics at the University of Waterloo.
 - I'm a woodworker and metalsmith/bladesmith. I'm still fairly inexperienced but I've produced several final pieces that I'm proud of.
