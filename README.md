@@ -2,7 +2,7 @@
 Welcome to my GitHub page! I have 6 and a half years of coding experience with both software-only languages and hardware-interfacing languages.
 
 ## Skills
-
+[<img align="left" alt="Rust" height="28px" src="rust-logo.png" />](https://www.rust-lang.org/)
 [<img align="left" alt="C++" height="28px" src="cpp.png" />](https://www.cplusplus.com/)
 [<img align="left" alt="Python" height="28px" src="python.png" />](https://www.python.org/)
 [<img align="left" alt="Java" height="28px" src="java.png" />](https://www.java.com/)
@@ -20,7 +20,6 @@ Welcome to my GitHub page! I have 6 and a half years of coding experience with b
 [<img align="left" alt="Blender" height="28px" src="blender.png" />](https://www.blender.org/)
 [<img align="left" alt="Android Studio" height="28px" src="as.png" />](https://developer.android.com/studio)
 [<img align="left" alt="Visual Studio" height="28px" src="vs.png" />](https://visualstudio.microsoft.com/)
-[<img align="left" alt="GIMP" height="28px" src="gimp.png" />](https://www.gimp.org/)
 <br />
 
 
