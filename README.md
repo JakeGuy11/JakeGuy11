@@ -24,7 +24,7 @@ Welcome to my GitHub page! I have over 7 years of coding experience with both so
 
 
 I've been using Java, Arduino (modified C++), and C#/.NET for the longest, and I'm most comfortable with Rust, C++ and JavaScript/NodeJS. I'm currently the lead software on [FRC team 7722](https://www.thebluealliance.com/team/7722/2019) and was when we won the district event at Western University in our rookie year as well.\
-I use Arch with DWM as a daily driver, so I'm most experienced and comfortable writing command line applications for UNIX/Mac systems in Java, C++ and Python, although I'm also familiar with the Rust GTK bindings and JavaFX graphics.
+I use Arch with DWM as a daily driver, so I'm most experienced and comfortable writing command line applications for UNIX/Mac systems in Rust, C++ and Python, although I'm also familiar with the Rust GTK bindings and JavaFX graphics.
 ## Hobbies/Interests
 - I have a passion for math and physics, more specifically astro and quantum physics. I hope to study mathematical physics at the University of Waterloo.
 - I'm a woodworker and metalsmith/bladesmith. I'm still fairly inexperienced but I've produced several final pieces that I'm proud of.
