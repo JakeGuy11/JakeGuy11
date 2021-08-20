@@ -1,5 +1,5 @@
 # JakeGuy11
-Welcome to my GitHub page! I have 6 and a half years of coding experience with both software-only languages and hardware-interfacing languages.
+Welcome to my GitHub page! I have over 7 years of coding experience with both software-only languages and hardware-interfacing languages.
 
 ## Skills
 [<img align="left" alt="Rust" height="28px" src="rust-logo.png" />](https://www.rust-lang.org/)
@@ -23,10 +23,10 @@ Welcome to my GitHub page! I have 6 and a half years of coding experience with b
 <br />
 
 
-I've been using Java, Arduino (modified C++), and C#/.NET for the longest, and I'm most comfortable with C++, Java, Python, and Bash. I'm currently lead software on [FRC team 7722](https://www.thebluealliance.com/team/7722/2019) and was when we won the district event at Western University in our rookie year as well.\
-I use Arch with DWM as a daily driver (check out my `dwm-status` program [here](https://github.com/JakeGuy11/dwm-status)), so I'm most experienced and comfortable writing command line applications for UNIX/Mac systems in Java, C++ and Python, although I'm also fairly experienced with the Java Swing graphics library.
+I've been using Java, Arduino (modified C++), and C#/.NET for the longest, and I'm most comfortable with Rust, C++ and JavaScript/NodeJS. I'm currently the lead software on [FRC team 7722](https://www.thebluealliance.com/team/7722/2019) and was when we won the district event at Western University in our rookie year as well.\
+I use Arch with DWM as a daily driver, so I'm most experienced and comfortable writing command line applications for UNIX/Mac systems in Java, C++ and Python, although I'm also familiar with the Rust GTK bindings and JavaFX graphics.
 ## Hobbies/Interests
-- I have a passion for math and physics, more specifically astrophysics. I hope to study mathematical physics at the University of Waterloo.
+- I have a passion for math and physics, more specifically astro and quantum physics. I hope to study mathematical physics at the University of Waterloo.
 - I'm a woodworker and metalsmith/bladesmith. I'm still fairly inexperienced but I've produced several final pieces that I'm proud of.
 - I'm a very big fan of the SciADV visual novel series. I also enjoy watching anime and reading manga.
 ## Check out some of my projects:
@@ -42,7 +42,3 @@ I use Arch with DWM as a daily driver (check out my `dwm-status` program [here](
 \
 If you have any questions or feedback about anything, contact me at any of the above (or email me at Jake_Guy_11@protonmail.ch).\
 I'm also always open to coding commissions. If you have any questions about my capabilities or pricing, please email me!
-## GitHub Statistics
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JakeGuy11&layout=compact&langs_count=5&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api?username=JakeGuy11&theme=radical)
