@@ -30,7 +30,7 @@ I use Arch with DWM as a daily driver, so I'm most experienced and comfortable w
 - I'm a woodworker and metalsmith/bladesmith. I'm still fairly inexperienced but I've produced several final pieces that I'm proud of.
 - I'm a very big fan of the SciADV visual novel series. I also enjoy watching anime and reading manga.
 ## Check out some of my projects:
-- [Image Sourcerer](https://github.com/JakeGuy11/image-sourcerer), a chrome addon that downloads, tags and sorts images from supported sites
+- [Image Sourcerer](https://github.com/JakeGuy11/image-sourcerer) ([site](https://github.com/JakeGuy11/image-sourcerer-site) and [proxy](https://github.com/JakeGuy11/image-sourcerer-proxy) as well), a chrome addon that downloads, tags and sorts images from supported sites
 - [rremind](https://github.com/JakeGuy11/rremind), a reminder program written in pure Rust
 - [album-archive](https://github.com/JakeGuy11/album-archive), a cli C++ tool for downloading and/or tagging large amounts of music
 - [youtube-archive](https://github.com/JakeGuy11/youtube-archive-cpp), a passive cli C++/python tool for archiving YouTube Livestreams
