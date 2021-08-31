@@ -37,7 +37,6 @@ I use Arch with DWM as a daily driver, so I'm most experienced and comfortable w
 ## Contact Me
 [<img align="left" alt="Email" width="30px" src="protonmail.png" />](mailto:Jake_Guy_11@protonmail.ch)
 [<img align="left" alt="Github" width="30px" src="github.png" />](https://github.com/JakeGuy11)
-[<img align="left" alt="Instagram" width="30px" src="instagram.png" />](https://www.instagram.com/jake_guy_11/)
 <br />
 \
 If you have any questions or feedback about anything, contact me at any of the above (or email me at Jake_Guy_11@protonmail.ch).\
