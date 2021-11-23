@@ -32,7 +32,7 @@ I use Arch with DWM as a daily driver, so I'm most experienced and comfortable w
 ## Check out some of my projects:
 - [Image Sourcerer](https://github.com/JakeGuy11/image-sourcerer) ([site](https://github.com/JakeGuy11/image-sourcerer-site) and [proxy](https://github.com/JakeGuy11/image-sourcerer-proxy) as well), a chrome addon that downloads, tags and sorts images from supported sites
 - [rremind](https://github.com/JakeGuy11/rremind), a reminder program written in pure Rust
-- [album-archive](https://github.com/JakeGuy11/album-archive), a cli C++ tool for downloading and/or tagging large amounts of music
+- [music-dl](https://github.com/JakeGuy11/music-dl), a cli rust tool for downloading and/or tagging music from youtube
 - [youtube-archive](https://github.com/JakeGuy11/youtube-archive-cpp), a passive cli C++/python tool for archiving YouTube Livestreams
 ## Contact Me
 [<img align="left" alt="Email" width="30px" src="protonmail.png" />](mailto:Jake_Guy_11@protonmail.ch)
