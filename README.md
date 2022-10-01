@@ -20,7 +20,6 @@ Additionally, I speak some French and Japanese (conversational in French, beginn
 [<img align="left" alt="Raspberry Pi" height="28px" src="rpi.png" />](https://www.raspberrypi.org/)
 [<img align="left" alt="Arduino" height="28px" src="arduino.png" />](https://www.arduino.cc/)
 [<img align="left" alt="NodeJS" height="28px" src="node.png" />](https://nodejs.org/en/)
-[<img align="left" alt="Blender" height="28px" src="blender.png" />](https://www.blender.org/)
 [<img align="left" alt="Android Studio" height="28px" src="as.png" />](https://developer.android.com/studio)
 <br />
 
