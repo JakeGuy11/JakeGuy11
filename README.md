@@ -1,6 +1,6 @@
 # JakeGuy11
 Welcome to my GitHub page! I have over 8 years of coding experience with both software-only languages and hardware-interfacing languages. My focus isn't currently on software, as I am a student at the University of Waterloo for Materials and Nanosciences, although I will occasionally update projects.\
-I am also a secondary school tutor, specializing in math, computer programming and the sciences. Please contact me if you're interested, my contact info can be found below!\
+I am also a secondary school tutor, specializing in math, computer programming and the sciences. I can always take more students, so please contact me if you're interested, my contact info can be found below!\
 Additionally, I speak some French and Japanese (conversational in French, beginner in Japanese). I'm always looking to practice so feel free to contact me in either of those languages as well!
 
 ## Skills
