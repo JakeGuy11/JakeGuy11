@@ -1,7 +1,5 @@
 # JakeGuy11
-Welcome to my GitHub page! I have over 8 years of coding experience with both software-only languages and hardware-interfacing languages. My focus isn't currently on software, as I am a student at the University of Waterloo for Materials and Nanosciences, although I will occasionally update projects.\
-I am also a secondary school tutor, specializing in math, computer programming and the sciences. I can always take more students, so please contact me if you're interested, my contact info can be found below!\
-Additionally, I speak some French and Japanese (conversational in French, beginner in Japanese). I'm always looking to practice so feel free to contact me in either of those languages as well!
+Hello, welcome to my GitHub page! I have over 10 years of coding experience with a wide range of compiled and scripting languages. My focus isn't currently on software, as I am a student at the University of Waterloo for Materials and Nanosciences, although I will occasionally update projects.\
 
 ## Skills
 [<img align="left" alt="Bash" height="28px" src="bash.png" />](https://www.gnu.org/software/bash/)
@@ -24,24 +22,23 @@ Additionally, I speak some French and Japanese (conversational in French, beginn
 <br />
 
 
-I've been using Java, Arduino, and C#/.NET for the longest, and I'm most proficient with Linux sytems, Rust and C++. I'm a FIRST Robotics mentor for team [7722](https://www.thebluealliance.com/team/7722/), where I was the lead software on and was when we won the district event at Western University in our rookie year as well.\
-I use Arch with DWM (Dynamic Window Manager) on my main computer, so I'm most experienced and comfortable writing command line applications for UNIX/Mac systems in Rust and C++, although I'm also familiar with the syntax and common libraries for Python, along with the web applications for JavaScript.
+I've been using Java, Python, and C#/.NET for the longest, and I'm most proficient with Linux sytems, Rust and Python. I'm a FIRST Robotics mentor for team [7722](https://www.thebluealliance.com/team/7722/), where I was the lead software on and was when we won the district event at Western University in our rookie year as well.\
+I use Arch with DWM (Dynamic Window Manager) on my main computer, so I'm most experienced and comfortable writing command line applications for UNIX/Mac systems in Rust and C++.
 ## Hobbies/Interests
-- I'm very passionate about chemistry and physics. I regularly attend the Public Lecture series at the Permiter Institute and I have a special interest in quantum physics and computing.
 - I do archery competitively, and I'm a rangemaster at the University of Waterloo Archery Club
-- I'm a woodworker and metalsmith/bladesmith. I'm still fairly inexperienced but I've produced several final pieces that I'm proud of.
-- I love learning languages; I'm in the process of learning French and Japanese, and in the future I'd like to learn Korean, Portuguese and some slavic language.
+- I'm a woodworker and hobby blacksmith. I mostly design and create blades, tools and other hardware.
+- I love learning languages; I'm in the process of learning German and Japanese
 ## Check out some of my projects:
 - [Image Sourcerer](https://github.com/JakeGuy11/image-sourcerer) ([site](https://github.com/JakeGuy11/image-sourcerer-site) and [proxy](https://github.com/JakeGuy11/image-sourcerer-proxy) as well), a chrome addon that downloads, tags and sorts images from supported sites
-- [rremind](https://github.com/JakeGuy11/rremind), a reminder program written in pure Rust
+- [rremind](https://github.com/JakeGuy11/rremind), a reminder program written in Rust
 - [music-dl](https://github.com/JakeGuy11/music-dl), a cli rust tool for downloading and/or tagging music from youtube
 - [youtube-archive](https://github.com/JakeGuy11/youtube-archive-cpp), a passive cli C++/python tool for archiving YouTube Livestreams
 ## Contact Me
 [<img align="left" alt="Email" width="30px" src="https://static-00.iconduck.com/assets.00/asst3an9f0i8" />](mailto:Jake_Guy_11@protonmail.ch)
-[<img align="left" alt="Github" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />](https://www.linkedin.com/in/jake-ketko/)
-[<img align="left" alt="Github" width="30px" src="https://pnggrid.com/wp-content/uploads/2021/05/Instagram-Logo-2048x1965.png" />](https://www.instagram.com/jake_guy_11/)
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" />](https://www.linkedin.com/in/jake-ketko/)
+[<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" />](https://www.instagram.com/jake_guy_11/)
 [<img align="left" alt="Github" width="30px" src="github.png" />](https://github.com/JakeGuy11)
 <br />
 \
-If you have any questions or feedback about anything, contact me at any of the above (or email me at jmketko@uwaterloo.ca).\
-I'm also always open to tutoring or software commissions. If you have any questions about my capabilities or pricing, please email me!
+If you have any questions or feedback about anything, contact me at any of the above socials (or email me at jmketko@uwaterloo.ca).\
+I am also always open for tutoring or software commissions. If you have any questions about my capabilities or pricing, please email me!
