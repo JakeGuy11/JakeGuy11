@@ -1,0 +1,177 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+}
+
+body {
+    background-image: var(--background-image);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    image-rendering: pixelated;
+    image-rendering: crisp-edges;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-family:
+        "Liberation Serif",
+        "Times New Roman",
+        Times,
+        serif;
+    padding:
+        clamp(60px, 8vh, 100px)
+        clamp(20px, 5vw, 50px);
+}
+
+.window {
+    width: 100%;
+    background: rgba(250, 250, 250, 0.85);
+    color: #111;
+    border: 1px solid #777;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.25);
+    padding: 32px;
+    box-sizing: border-box;
+}
+
+.page-container {
+    width: min(900px, 100%);
+    margin-bottom: 50px;
+}
+
+.tabs {
+    display: flex;
+    width: 100%;
+    background: rgba(220, 220, 220, 0.95);
+    border: 1px solid #777;
+    border-bottom: none;
+    box-sizing: border-box;
+}
+
+.tab {
+    flex: 1;
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    padding: 12px 0;
+    border-right: 1px solid #777;
+    background: rgba(220, 220, 220, 0.95);
+}
+
+.tab:last-child {
+    border-right: none;
+}
+
+.tab:hover {
+    background: rgb(235, 235, 235);
+}
+
+.tab.active {
+    background: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.home-layout {
+    display: flex;
+    gap: 25px;
+    align-items: flex-start;
+}
+
+.photo-box {
+    flex: 0 0 250px;
+    box-sizing: border-box;
+}
+
+.photo-box img {
+    display: block;
+    width: 100%;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.7);
+}
+
+.intro-box {
+    flex: 1;
+    box-sizing: border-box;
+}
+
+.intro-box h1 {
+    margin-top: 0;
+}
+
+.contact-list {
+    margin-top: 20px;
+}
+
+.contact-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 0;
+}
+
+.contact-item img {
+    width: 40px;
+    image-rendering: auto;
+}
+
+.contact-item a {
+    color: #0000cc;
+    text-decoration: underline;
+}
+
+.resume-entry {
+    margin-bottom: 30px;
+}
+
+.resume-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    border-bottom: 1px solid #999;
+    margin-bottom: 4px;
+}
+
+.resume-header h3 {
+    margin: 0;
+}
+
+.resume-date {
+    color: #444;
+}
+
+.resume-affiliation {
+    font-weight: bold;
+    margin-top: 6px;
+}
+
+.resume-subtitle {
+    font-style: italic;
+    color: #444;
+    margin-top: 2px;
+}
+
+.resume-location {
+    color: #666;
+    margin-top: 2px;
+}
+
+.resume-details {
+    margin-top: 10px;
+    max-width: 70%;
+    padding-left: 24px;
+}
+
+.copyright-box {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    background: white;
+    border: 1px solid #808080;
+    padding: 0px 5px;
+    font-size: 12px;
+    color: black;
+}
